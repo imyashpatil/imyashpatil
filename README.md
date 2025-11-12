@@ -58,13 +58,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
 
-### 👨🏻‍💻 Workspace
-![Macbook m1](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=mac&logoColor=white)
-![IOS](https://img.shields.io/badge/Windows_OS-0078D6?style=for-the-badge&logo=ios&logoColor=white)
-![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
----
 
 # 📊 Statistics:
 
