@@ -71,20 +71,9 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imyashpatil&theme=vue" width="450" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imyashpatil&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="450" height="auto"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=imyashpatil&theme=radical&hide_border=false" width="450" height="auto"/>
-<img src="https://github-readme-stats.vercel.app/api?username=imyashpatil&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="450" height="auto"/>
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=imyashpatil&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=imyashpatil&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-<!--
-### ✍️ Random Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
--->
----
 
-### Note : "Most Used Languages" is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
----
-![Visitor Count](https://profile-counter.glitch.me/{pratikabhang}/count.svg)
